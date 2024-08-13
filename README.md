@@ -1,5 +1,5 @@
 ## Boas Vindas ao meu perfil 🤓
-meu nome é Marcelly Costa Lima
+meu nome é *Marcelly*
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
